@@ -1,9 +1,9 @@
-# blockchain-keys
+# blockchain-keygen
 
-[![Crates.io](https://img.shields.io/crates/v/blockchain-keys.svg)](https://crates.io/crates/blockchain-keys)
-[![Docs.rs](https://docs.rs/blockchain-keys/badge.svg)](https://docs.rs/blockchain-keys)
-[![CI](https://github.com/ericnordelo/blockchain-keys/workflows/CI/badge.svg)](https://github.com/ericnordelo/blockchain-keys/actions)
-[![Coverage Status](https://coveralls.io/repos/github/ericnordelo/blockchain-keys/badge.svg?branch=main)](https://coveralls.io/github/ericnordelo/blockchain-keys?branch=main)
+[![Crates.io](https://img.shields.io/crates/v/blockchain-keygen.svg)](https://crates.io/crates/blockchain-keygen)
+[![Docs.rs](https://docs.rs/blockchain-keygen/badge.svg)](https://docs.rs/blockchain-keygen)
+[![CI](https://github.com/ericnordelo/blockchain-keygen/workflows/CI/badge.svg)](https://github.com/ericnordelo/blockchain-keygen/actions)
+[![Coverage Status](https://coveralls.io/repos/github/ericnordelo/blockchain-keygen/badge.svg?branch=main)](https://coveralls.io/github/ericnordelo/blockchain-keygen?branch=main)
 
 ## Installation
 
@@ -11,7 +11,7 @@
 
 * Install the rust toolchain in order to have cargo installed by following
   [this](https://www.rust-lang.org/tools/install) guide.
-* run `cargo install blockchain-keys`
+* run `cargo install blockchain-keygen`
 
 ## License
 

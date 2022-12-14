@@ -1,7 +1,7 @@
 [package]
 name = "blockchain-keygen"
 version = "0.1.0"
-edition = "2022"
+edition = "2021"
 description = "Generate safe keys for different blockchains off-line"
 repository = "https://github.com/ericnordelo/blockchain-keygen"
 license = "MIT"
