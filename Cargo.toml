@@ -1,0 +1,18 @@
+[package]
+name = "blockchain-keygen"
+version = "0.1.0"
+edition = "2021"
+description = "Generate safe keys for different blockchains off-line"
+repository = "https://github.com/ericnordelo/blockchain-keys"
+license = "MIT OR Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+fltk = "^1.3"
+rand = "^0.8.0"
+rand_chacha = "^0.3.0"
+hex = "^0.4.0"
+ethers = "^1.0.0"
+secp256k1 = "^0.25.0"
+clap = { version = "4.0.29", features = ["derive"] }
