@@ -1,10 +1,10 @@
 [package]
 name = "blockchain-keygen"
 version = "0.1.0"
-edition = "2021"
+edition = "2022"
 description = "Generate safe keys for different blockchains off-line"
-repository = "https://github.com/ericnordelo/blockchain-keys"
-license = "MIT OR Apache-2.0"
+repository = "https://github.com/ericnordelo/blockchain-keygen"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
